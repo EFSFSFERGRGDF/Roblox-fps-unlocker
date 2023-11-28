@@ -1,2 +1,3 @@
 # Roblox-fps-unlocker
-Roblox fps unlocker use Python 
+使用python製作一個roblox fps解除限制的工具
+
